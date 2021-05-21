@@ -1,2 +1,9 @@
 //引入reset-css  清空浏览器默认样式
 @import 'reset-css/less/reset.less';
+.clearfix{
+  &::after{
+      content:'';
+      display: table;
+      clear: both;
+  }
+}
