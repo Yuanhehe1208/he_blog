@@ -20,7 +20,7 @@
           <slot name="body-right">right</slot>
       </div>
       <div class="layout-body-middle">
-          <slot name="body-middle">middle</slot>
+          <slot>middle</slot>
       </div>
     </div>
   </div>
