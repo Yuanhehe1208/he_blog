@@ -4,7 +4,7 @@
       <template v-slot:header-left>
         <a href="/login">下载App</a>
         <a href="/qinquan">注册头条号</a>
-        <a href="/toutiaochanpin">北京</a>
+        <a href="/toutiaochanpin">北京1</a>
       </template>
       <template v-slot:body-left>
         <LinkBtton linkHref="/redian" target="_blank">热点</LinkBtton>
